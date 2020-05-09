@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+#clock {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 5em;
+    color: #32cd32;
+}
